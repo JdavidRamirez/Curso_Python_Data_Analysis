@@ -23,3 +23,18 @@
    3. Data selection and filtering
    4. Loading data from files
 
+* **Module 3**: Data transformation and cleaning
+
+  **Topics**:
+  1. Handling null values
+  2. Data transformation
+  3. Combining data frames
+  4. Temporary data formatting
+
+* **Module 4**: Data visualisation
+
+  **Topics**:
+  1. Matplotlib and seaborn
+  2. Bars, histograms, lines, and dispersion
+  3. Boxplots, scatter plot,s and heatmaps
+  4. Exercises and practical improvements
