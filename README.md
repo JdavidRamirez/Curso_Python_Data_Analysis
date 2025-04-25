@@ -4,11 +4,14 @@
 
 **Tools**: Python and Google Collaboratory notebooks
 
-* Module 1: An introduction to Python and Google Collaboratory.
-  Topics:
-  * Setting up and exploring Google Collaboratory 
-  * Variable names, assignment, and basic types of variables.
-  *Conditionals and loops
-  *Strings, lists, and dictionaries
-  *Functions
+* **Module 1**: An introduction to Python and Google Collaboratory.
+
+  **Topics**:
+  1. Setting up and exploring Google Collaboratory 
+  2. Variable names, assignment, and basic types of variables.
+  3. Conditionals and loops
+  4. Strings, lists, and dictionaries
+  5. Functions
+  6. Modules and packages
+  7. OOP
 
