@@ -14,4 +14,12 @@
   5. Functions
   6. Modules and packages
   7. OOP
+ 
+* **Module 2**: Data manipulation with Pandas and Numpy
+
+  **Topics**:
+   1. Introduction to the Pandas and Numpy libraries
+   2. Creation and visualisation of Dataframes
+   3. Data selection and filtering
+   4. Loading data from files
 
